@@ -3,6 +3,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
 relative_links:
+  theme: jekyll-theme-dinky
   enabled: true
   collections: true
 include:
